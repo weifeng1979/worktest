@@ -15,8 +15,6 @@ change from ting01 branch (fix by feng01)
 
 @@ add one more line as boss request @@
 
-<<<<<<< HEAD
-
 *** new chang from newbranch @@@      +     %%% new line from mainbranch @weifeng1979 %%%
 
 ----line for testing rule----
