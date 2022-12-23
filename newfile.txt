@@ -19,3 +19,4 @@ change from ting01 branch (fix by feng01)
 
 *** new chang from newbranch @@@      +     %%% new line from mainbranch @weifeng1979 %%%
 
+----line for testing rule----
